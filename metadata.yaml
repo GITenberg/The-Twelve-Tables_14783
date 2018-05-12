@@ -1,0 +1,27 @@
+_repo: The-Twelve-Tables_14783
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Coleman-Norton, Paul R. (Paul Robinson)
+    aliases:
+    - Coleman-Norton, P. R. (Paul Robinson)
+    - Coleman-Norton, Paul Robinson
+    gutenberg_agent_id: '25921'
+    url: http://www.gutenberg.org/2009/agents/25921
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Roman law -- Sources'
+- !lcc 'K'
+title: The Twelve Tables
+url: http://www.gutenberg.org/ebooks/14783
