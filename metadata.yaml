@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14783#The-Twelve-Tables
 gutenberg_issued: '2005-01-24'
 gutenberg_type: Text
 identifiers:
